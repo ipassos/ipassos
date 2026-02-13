@@ -24,10 +24,10 @@ I bridge the gap between **social sciences** and **data engineering**, building 
 
 ### 🛠 Tech Stack
 
-**Languages:** `R` (Advanced), `Python`, `SQL`
-**Big Data:** `PySpark`, `Apache Spark`, `Databricks`
-**Dev:** `Shiny`, `Quarto`, `Docker`, `Infra`
-**Focus:** #OpenData, #CivicTech, #HumanRights
+- **Languages:** `R` (Advanced), `Python`, `SQL`
+- **Big Data:** `PySpark`, `Apache Spark`, `Databricks`
+- **Dev:** `Shiny`, `Quarto`, `Docker`, `Infra`
+- **Focus:** #OpenData, #CivicTech, #HumanRights
 
 ---
 
