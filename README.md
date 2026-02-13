@@ -8,10 +8,10 @@ I bridge the gap between **social sciences** and **data engineering**, building 
 
 ### 🔭 Current Focus & Activism
 
-- **🎓 BSc Statistics (Final Year @ UFRGS):** my thesis investigates how **Large Language Models (LLMs)** amplify social inequalities, challenging the "neutrality" of AI
-- **✊ Coletivo Farpa:** member of an autonomous collective developing social technology for movements fighting for a just world
-- **📡 Rede pela Soberania Digital:** debating and building autonomous infrastructures
-- **👩‍💻 Community Organizing:** organizer  **R-Ladies Porto Alegre** & **AI Inclusive**
+- ** BSc Statistics (Final Year @ UFRGS):** my thesis investigates how **Large Language Models (LLMs)** amplify social inequalities, challenging the "neutrality" of AI
+- ** Coletivo Farpa:** member of an autonomous collective developing social technology for movements fighting for a just world
+- ** Rede pela Soberania Digital:** debating and building autonomous infrastructures
+- ** Community Organizing:** organizer  **R-Ladies Porto Alegre** & **AI Inclusive**
 - **Data Sovereignty:** advocating for offline-first and audit-ready architectures
 - **R & Society:** developing packages to unify and share open public data
 
