@@ -109,7 +109,9 @@ _**Open for collab (paid/volunteer):** OpenData, CivicTech & Human Rights._
 ---
 <div align="center">
 
-** 🇧🇷 | she/her | pt/en/es | 🏳️‍🌈 | ENM | AuDHD + 2e (G/HA) **
+🇧🇷 | she/her | pt/en/es | 🏳️‍🌈 | ENM | AuDHD + 2e (G/HA)
+
+** Embrace the absurd ** 
 
 `#DigitalSovereignty` `#CivicTech` `#DataViz` `#Statistics` `#OpenSource` `#PopularPower` `#OpenData` `#OpenSci` `#DataScience` `#DataEngineering`
 
