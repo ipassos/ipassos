@@ -99,6 +99,7 @@ _In compliance with the principles of digital sovereignty and free software, I a
 ### 🤝 Vamos conversar?|Let's Connect
 
 Aberta para colaborações (remuneradas ou voluntárias) em Dados Abertos, Direitos Humanos e Tecnologias Autônomas.
+
 _**Open for collab (paid/volunteer):** OpenData, CivicTech & Human Rights._
 
 - 🐘 **Mastodon (Politics/Theory):** [@exhausted_sociologist@kolektiva.social](https://kolektiva.social/@exhausted_sociologist)
@@ -111,7 +112,7 @@ _**Open for collab (paid/volunteer):** OpenData, CivicTech & Human Rights._
 
 🇧🇷 | she/her | pt/en/es | 🏳️‍🌈 | ENM | AuDHD + 2e (G/HA)
 
-** Embrace the absurd ** 
+<strong> < Embrace the absurd > </strong>
 
 `#DigitalSovereignty` `#CivicTech` `#DataViz` `#Statistics` `#OpenSource` `#PopularPower` `#OpenData` `#OpenSci` `#DataScience` `#DataEngineering`
 
