@@ -1,6 +1,7 @@
-# 🚩 Iara Passos | @ipassos
+# 🚩 :black_flag: Iara Passos | @ipassos :infinity: :rainbow_flag:
 
 **Data Engineer, Scientist & Sociologist**
+
 *Transformando dados brutos em munição política | Turning raw data into political ammunition*
 
 [**Codeberg**](https://codeberg.org/ipassos) • [**LinkedIn**](https://www.linkedin.com/in/iara-cpassos) • [**Portfolio**](https://ipassos.github.io/) • [**Mastodon**](https://kolektiva.social/@exhausted_sociologist)
@@ -113,7 +114,7 @@ I advocate for **Free Software** as user autonomy, **community education** as an
 ---
 <div align="center">
 
-🇧🇷 | she/her | pt/en/es | 🏳️‍🌈 | ENM | AuDHD + 2e (G/HA)
+🇧🇷 | she/her | pt/en/es | 🏳️‍🌈 | ENM | AuDHD + 2e (G/HA) :infinity:
 
 <strong> < Embrace the absurd > </strong>
 
