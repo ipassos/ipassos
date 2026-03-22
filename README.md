@@ -1,6 +1,6 @@
 # 🚩 :black_flag: Iara Passos | @ipassos :infinity: :rainbow_flag:
 
-**Data Engineer, Scientist & Sociologist**
+**Engenheira/Cientista de Dados & Socióloga | Data Engineer, Scientist & Sociologist**
 
 *Transformando dados brutos em munição política | Turning raw data into political ammunition*
 
