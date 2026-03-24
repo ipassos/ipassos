@@ -27,8 +27,11 @@ Em conformidade com os princípios de soberania digital e software livre, estou 
 * **[Observatório de Apps Governamentais](https://codeberg.org/ipassos/app-observ-gov)**: 
   * Dashboard analítico que monitora a percepção cidadã sobre serviços públicos digitais. Utiliza NLP (Transformers) e arquitetura de dados otimizada (Apache Arrow/Parquet) para processar milhões de avaliações da Google Play Store em ambientes de memória restrita.
   
-* **[Em breve]**:
-  * _Repositório em preparação._
+* **[Dashboard - Índice Territorial de Fricção Digital (ITFD)](https://codeberg.org/ipassos/itfd-dashboard.git)**:
+  * Dashboard analítico e espacial (R/Shiny) que mapeia as desigualdades sociotécnicas e a exclusão digital urbana em Porto Alegre. Emprega técnicas avançadas de geoprocessamento (`sf`, `leaflet`), arquitetura bilíngue customizada (i18n) e modelagem estatística (PCA) para sintetizar as fricções de infraestrutura do capitalismo de plataforma.
+ 
+* **[Em breve]:
+  * _Repositório em preparação_
 
 ### 🔭 Foco atual & ativismo
 
@@ -79,7 +82,10 @@ In compliance with the principles of digital sovereignty and free software, I am
 * **[Government Apps Observatory](https://codeberg.org/ipassos/app-observ-gov)**: 
   * Analytical dashboard monitoring citizen perception of digital public services. Employs NLP (Transformers) and optimized data architecture (Apache Arrow/Parquet) to process millions of Google Play Store reviews within resource-constrained environments.
 
-* **[Coming Soon]**:
+* **[Dashboard - Territorial Index of Digital Friction (TIDF)](https://codeberg.org/ipassos/itfd-dashboard.git)**:
+  * Spatial and analytical dashboard (R/Shiny) mapping sociotechnical inequalities and urban digital exclusion in Porto Alegre. Applies advanced geoprocessing techniques (`sf`, `leaflet`), a custom bilingual architecture (i18n), and statistical modeling (PCA) to synthesize the infrastructural frictions of platform capitalism.
+
+* **Coming soon**
   * _Repository under construction._
 
 ### 🔭 Current focus & activism
