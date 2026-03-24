@@ -30,7 +30,7 @@ Em conformidade com os princípios de soberania digital e software livre, estou 
 * **[Dashboard - Índice Territorial de Fricção Digital (ITFD)](https://codeberg.org/ipassos/itfd-dashboard.git)**:
   * Dashboard analítico e espacial (R/Shiny) que mapeia as desigualdades sociotécnicas e a exclusão digital urbana em Porto Alegre. Emprega técnicas avançadas de geoprocessamento (`sf`, `leaflet`), arquitetura bilíngue customizada (i18n) e modelagem estatística (PCA) para sintetizar as fricções de infraestrutura do capitalismo de plataforma.
  
-* **[Em breve]:
+* **[Em breve]**:
   * _Repositório em preparação_
 
 ### 🔭 Foco atual & ativismo
