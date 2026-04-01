@@ -4,7 +4,7 @@
 
 *Transformando dados brutos em munição política | Turning raw data into political ammunition*
 
-[**Codeberg**](https://codeberg.org/ipassos) • [**LinkedIn**](https://www.linkedin.com/in/iara-cpassos) • [**Portfolio**](https://ipassos.github.io/) • [**Mastodon**](https://kolektiva.social/@exhausted_sociologist)
+[**Codeberg**](https://codeberg.org/ipassos) • [**LinkedIn**](https://www.linkedin.com/in/iara-cpassos) • [**Portfolio**](https://ipassos.codeberg.page/) • [**Mastodon**](https://kolektiva.social/@exhausted_sociologist)
 
 ---
 
